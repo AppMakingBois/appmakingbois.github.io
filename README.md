@@ -2,9 +2,7 @@
 
 # App Making Bois
 
-## Creators of NodeBoy
-
-<!-- Link to NodeBoy repo -->
+## Creators of [NodeBoy](https://github.com/AppMakingBois/NodeBoy)
 
 ## Members
 
