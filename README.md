@@ -8,6 +8,5 @@
 
 ### [Evan](https://github.com/evan3334)
 ### [Anthony](https://github.com/18fadly-anthony)
-### Eddie
+### [Eddie](https://github.com/Crumkid4)
 
-<!-- Link to Eddie's github account -->
