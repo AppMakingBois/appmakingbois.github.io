@@ -4,8 +4,8 @@
 
 ## Members
 
-- [Evan](https://github.com/evan3334)
-- [Anthony](https://github.com/18fadly-anthony)
-- [Eddie](https://github.com/Crumkid4)
+- [Evan](https://github.com/evan3334) - Lead Developer
+- [Anthony](https://github.com/18fadly-anthony) - Web Developer
+- [Eddie](https://github.com/Crumkid4) - Press and Media Manager
 
 ## Screenshots
