@@ -1,13 +1,4 @@
-<html>
-<head>
-  <title>App Making Bois</title>
-  <style>
-    body{
-      background-color: lightblue;
-    }
-  </style>
-</head>
-<body>
+<html><head><title>App Making Bois</title><style>body{background-color: lightblue;}</style></head><body>
 
 # [App Making Bois](https://github.com/AppMakingBois)
 
@@ -19,5 +10,4 @@
 ### [Anthony](https://github.com/18fadly-anthony)
 ### [Eddie](https://github.com/Crumkid4)
 
-</body>
-</html>
+</body></html>
