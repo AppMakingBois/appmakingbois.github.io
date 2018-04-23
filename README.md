@@ -9,3 +9,7 @@
 - [Eddie](https://github.com/Crumkid4) - Press and Media Manager
 
 ## Screenshots
+
+- (MAC Addresses Redacted)
+
+![Screenshot Device Selection](img/screenshot-device-screen.png)
