@@ -9,9 +9,7 @@
 </head>
 <body>
 
-# appmakingbois.github.io
-
-# App Making Bois
+# [App Making Bois](https://github.com/AppMakingBois)
 
 ## Creators of [NodeBoy](https://github.com/AppMakingBois/NodeBoy)
 
