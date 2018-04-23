@@ -1,8 +1,8 @@
 <html><head><title>App Making Bois</title><style>body{background-color: lightblue;}</style></head><body>
 
-# [App Making Bois](https://github.com/AppMakingBois)
+<h1>[App Making Bois](https://github.com/AppMakingBois)</h1>
 
-## Creators of [NodeBoy](https://github.com/AppMakingBois/NodeBoy)
+<h2>Creators of [NodeBoy](https://github.com/AppMakingBois/NodeBoy)</h1>
 
 ## Members
 
