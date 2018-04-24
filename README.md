@@ -10,6 +10,6 @@
 
 ## Screenshots
 
-- (MAC Addresses Redacted)
+- Device Selection Screen
 
 ![Screenshot Device Selection](img/screenshot-device-screen.png)
