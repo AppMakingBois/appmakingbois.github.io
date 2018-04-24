@@ -2,6 +2,8 @@
 
 ## Creators of [NodeBoy](https://github.com/AppMakingBois/NodeBoy)
 
+## [Official Instagram](https://instagram.com/appmakingbois2018)
+
 ## Members
 
 - [Evan](https://github.com/evan3334) - Lead Developer
