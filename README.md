@@ -13,3 +13,7 @@
 - Device Selection Screen
 
 ![Screenshot Device Selection](img/screenshot-device-screen.png)
+
+- Chat Screen
+
+![Screenshot Chat](img/screenshot-chat.jpg)
