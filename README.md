@@ -10,6 +10,8 @@
 - [Anthony](https://github.com/18fadly-anthony) - Web Developer
 - [Eddie](https://github.com/Crumkid4) - Press and Media Manager
 
+## [Download NodeBoy Here](https://github.com/AppMakingBois/NodeBoy/releases)
+
 ## Screenshots
 
 - Device Selection Screen
