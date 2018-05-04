@@ -1,5 +1,7 @@
 # [App Making Bois](https://github.com/AppMakingBois)
 
+[![Logo](img/logo.jpg)](https://github.com/AppMakingBois/NodeBoy)
+
 ## Creators of [NodeBoy](https://github.com/AppMakingBois/NodeBoy)
 
 ## [Official Instagram](https://instagram.com/appmakingbois2018)
